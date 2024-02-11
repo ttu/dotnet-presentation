@@ -1,2 +1,3 @@
 # dotnet-presentation
-.NET presentation from 2018
+
+.NET & C# presentation from 2018
